@@ -1,0 +1,18 @@
+# Bibliotecas principais
+beautifulsoup4==4.12.2       # Para fazer parsing de HTML
+requests==2.31.0            # Para fazer requisições HTTP
+selenium==4.15.0            # Para interagir com páginas dinâmicas (JavaScript)
+webdriver-manager==4.0.1    # Para gerenciar drivers do Selenium automaticamente
+
+# Envio para o Telegram
+python-telegram-bot==20.5   # Para enviar mensagens ao Telegram
+
+# Manipulação de cache e logs
+jsonschema==4.21.1          # Para validação de JSON (opcional, se necessário)
+loguru==0.7.2               # Para facilitar o registro de logs (opcional)
+
+# Outras dependências opcionais
+feedparser==6.0.10          # Para analisar feeds RSS
+schedule==1.2.1             # Para agendamento de tarefas (opcional)
+apscheduler==3.10.4         # Alternativa mais robusta para agendamento de tarefas
+pandas==2.1.4               # Para processamento de dados em formato tabular (opcional)

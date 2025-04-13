@@ -89,3 +89,5 @@ Substitua os valores pelos dados do seu bot e grupo do Telegram.
 ```
 Esse bloco contém todas as instruções necessárias para configurar e usar o projeto, desde a criação do ambiente virtual até a execução do sistema. Basta copiar e colar diretamente no seu `README.md`. Se precisar de mais ajustes ou quiser adicionar algo específico, estou à disposição! 😊
 ```
+![Screenshot 2025-04-13 020851](https://github.com/user-attachments/assets/48e00de7-cb8d-49c4-a891-83c2d574b164)
+
